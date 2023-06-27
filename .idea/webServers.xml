@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e821a74b-2edb-4eb2-aea1-7a01eeea2002" name="47.243.192.196" url="http://47.243.192.196">
+        <fileTransfer host="47.243.192.196" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9171c148-cd8b-4b7e-a2b5-800adecdd937" name="111" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\Monty\Desktop" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
